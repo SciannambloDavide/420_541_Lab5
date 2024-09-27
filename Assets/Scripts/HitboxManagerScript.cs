@@ -14,7 +14,7 @@ public class HitboxManagerScript : MonoBehaviour
         }
         
     }
-    public void EnablieHitbox()
+    public void EnableHitbox()
     {
         foreach(Collider attackCollider in attackColliders)
         {
